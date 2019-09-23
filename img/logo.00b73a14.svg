@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="59.854" viewBox="0 0 120 59.854">
+  <g id="Logo" transform="translate(-244 -31.146)">
+    <text id="Name" transform="translate(244 81)" fill="#fff" font-size="30" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Mo      E</tspan></text>
+    <g id="Icon" transform="translate(91 -84)">
+      <rect id="Line_1" data-name="Line 1" width="8" height="29" rx="4" transform="translate(233.899 120.18) rotate(-39)" fill="#fff"/>
+      <rect id="Line_2" data-name="Line 2" width="8" height="43" rx="4" transform="translate(235 117)" fill="#fff"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(206 139)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="10.5" cy="10.5" r="10.5" transform="translate(214 147)" fill="#13181d"/>
+      <rect id="Line_3" data-name="Line 3" width="11" height="20" transform="translate(224 137)" fill="#13181d"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="3.5" cy="4" rx="3.5" ry="4" transform="translate(220 139)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

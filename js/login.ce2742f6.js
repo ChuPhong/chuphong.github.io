@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["login"],{a55b:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("h1",[n._v("Login page")])},o=[],i={name:"Login"},c=i,l=t("2877"),r=Object(l["a"])(c,a,o,!1,null,"b09534d8",null);e["default"]=r.exports}}]);
-//# sourceMappingURL=login.ce2742f6.js.map
